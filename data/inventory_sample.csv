@@ -1,1 +1,6 @@
-
+item_id,item_name,location,expected_qty,counted_qty,date_checked
+1001,Vitamin C,A01,50,48,2026-05-26
+1002,Shampoo,B02,30,30,2026-05-26
+1003,Toothpaste,C03,75,70,2026-05-26
+1004,Face Cream,A02,20,22,2026-05-26
+1005,Hand Soap,D01,100,95,2026-05-26
